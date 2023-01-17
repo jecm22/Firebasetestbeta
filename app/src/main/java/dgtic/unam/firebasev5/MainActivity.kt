@@ -41,6 +41,9 @@ class MainActivity : AppCompatActivity(),NavigationView.OnNavigationItemSelected
             R.id.contraint_layout->{
                 startActivity(Intent(this,ConstraintActivity::class.java))
             }
+            R.id.Pantalla_dos->{
+                startActivity(Intent(this,ConstraintActivity::class.java))
+            }
         }
 
         drawer.closeDrawer(GravityCompat.START)

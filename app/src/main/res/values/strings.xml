@@ -2,6 +2,8 @@
     <string name="app_name">firebasev5</string>
     <string name="dispositivos_moviles_8">Dispositivos Moviles 8</string>
     <string name="constraint_layout">Constraint Layout</string>
+
+
     <string name="titulo_barra">Modulo 7 de Android</string>
     <string name="logo_unam">Logo UNAM</string>
     <string name="abrir">Abrir</string>
@@ -70,5 +72,6 @@
     <string name="serie_x">Serie X</string>
     <string name="logo_compra">logo compra</string>
     <string name="collapsingtoolbarlayout">Collapsingtoolbarlayout</string>
+    <string name="Pantalla_dos_string">Pantalla Dos</string>
 
 </resources>
